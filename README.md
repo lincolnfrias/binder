@@ -1,11 +1,20 @@
 
 
 
-<!-- (https://mybinder.org/v2/gh/binder-examples/appmode/master?urlpath=apps%2Findex.ipynb) -->
-[![Binder](https://mybinder.org/badge.svg)](https://github.com/lincolnfrias/binder/blob/master/df_binder.ipynb)
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lincolnfrias/binder/master)
 
 Webapps construídos com ipywidgets e executados com mybinder.
 
+
+
+anotações minhas:
+
+trocar atlas por algo menor (ou já é muito pequeno? 3mb)
+
+usar environment ou requirements?
+
+environment.yml
 channels:
   - conda-forge
   - defaults
